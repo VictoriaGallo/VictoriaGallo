@@ -1,7 +1,5 @@
 ## Laura Victoria Gallo Payana💖
 
-<!--
-**VictoriaGallo/VictoriaGallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a 7th semester student of Computer Engineering with a solid background in university projects and knowledge in artificial intelligence, backed by a specialized course from Huawei. I am passionate about learning and applying cutting-edge technology, especially in AI, and I am constantly looking to expand my skills in this field.
 Currently, I have experience in customer service in the handicraft sales sector, where I have developed effective communication skills, empathy and adaptability. My experience has taught me to understand customer needs, which I consider an added value when working in multidisciplinary teams on technology projects.
