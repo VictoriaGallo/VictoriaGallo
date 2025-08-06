@@ -1,7 +1,7 @@
 ## Laura Victoria Gallo Payana💖
 
 
-I am a 7th semester student of Computer Engineering with a solid background in university projects and knowledge in artificial intelligence, backed by a specialized course from Huawei. I am passionate about learning and applying cutting-edge technology, especially in AI, and I am constantly looking to expand my skills in this field.
+I am a 8th semester student of Computer Engineering with a solid background in university projects and knowledge in artificial intelligence, backed by a specialized course from Huawei. I am passionate about learning and applying cutting-edge technology, especially in AI, and I am constantly looking to expand my skills in this field.
 Currently, I have experience in customer service in the handicraft sales sector, where I have developed effective communication skills, empathy and adaptability. My experience has taught me to understand customer needs, which I consider an added value when working in multidisciplinary teams on technology projects.
 I am looking for opportunities to put my computer skills into practice and expand my AI skills, contributing with creativity and a results-oriented approach in dynamic work environments.
 
