@@ -1,6 +1,6 @@
 ## 👩‍💻 Laura Victoria Gallo Payana 🥰 
 
-🎓 Estudiante de Ingeniería Informática  (8.º semestre)  
+🎓 Estudiante de Ingeniería Informática  (9.º semestre)  
 📊 Interesada en **análisis de datos** e **inteligencia artificial**  
 💡 Apasionada por aprender, crear y aplicar tecnología  
 
