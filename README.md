@@ -21,10 +21,3 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-
----
-
-### 📊 Estadísticas  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoriaGallo&show_icons=true&theme=dracula&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaGallo&layout=compact&theme=dracula&hide_border=true)  
-
